@@ -1,0 +1,102 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 745 (ID=0x1382)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.123 seconds
+Platform assembly: D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\DPA\2017\Spring2017\gamejam\Panda Plunder\Builds\48HourBuild\PandaPlunder_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Mask') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 0.899605 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 14f8 -> priority: 1 
+  Thread -> id: 16a4 -> priority: 1 
+  Thread -> id: 29f0 -> priority: 1 
+  Thread -> id: 1d90 -> priority: 1 
+45 39
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18 32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+45 28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+61 25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+57 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+31 39
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+17 43
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+30 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+23 47
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+19 28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+68 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+61 25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+7 45
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+18 32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+65 24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
